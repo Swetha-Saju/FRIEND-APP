@@ -61,4 +61,12 @@
         android:textColor="#F3F7F8"
         android:layout_margin="20px"
         android:text="SUBMIT"/>
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#7B2999"
+        android:text="VIEW FRIENDS"
+        android:id="@+id/vbtn"
+        android:textColor="#FEFEF9"/>
+
 </LinearLayout>
